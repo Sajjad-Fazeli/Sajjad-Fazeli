@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Dr. Sajjad Fazeli
+# 👋 Hi there, I'm Sajjad Fazeli
 
 🚀 **Lead AI Engineer | LLM/RAG Specialist | PhD in Optimization | $50M+ Business Impact**
 
